@@ -1,6 +1,6 @@
 # Hyperledger Fabric [![join the chat][rocketchat-image]][rocketchat-url]
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [rocketchat-url]: https://chat.hyperledger.org/channel/fabric
@@ -101,6 +101,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/ryjones/"><img src="https://avatars.githubusercontent.com/u/466142?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ry Jones</b></sub></a><br /><a href="https://github.com/hyperledger-cicd/badgething/commits?author=ryjones" title="Documentation">📖</a> <a href="#translation-ryjones" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/alvaropicazo"><img src="https://avatars.githubusercontent.com/u/76157062?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alvaro Picazo</b></sub></a><br /><a href="#maintenance-alvaropicazo" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
