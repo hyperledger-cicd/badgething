@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ryjones",
+      "name": "Ry Jones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/466142?v=4",
+      "profile": "https://www.linkedin.com/in/ryjones/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "badgething",
+  "projectOwner": "hyperledger-cicd",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
